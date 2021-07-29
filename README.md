@@ -1,6 +1,6 @@
 # file-share
 
-#live link -- https://Shadowcyng.github.io/inshare-frontend
+# link -- http://127.0.0.1:5500/insare-client/index.html
 
  # download, install Dependencies using npm install
 
